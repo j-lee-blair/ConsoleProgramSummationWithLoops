@@ -1,0 +1,7 @@
+First ever school project!
+
+using Console.WriteLine and Console.ReadLine to store user input and display menus
+using For-loops, While-loops where necessary
+using string.Format to return messages for the UI
+using += operators for summation
+using loose coupling of UI and logic

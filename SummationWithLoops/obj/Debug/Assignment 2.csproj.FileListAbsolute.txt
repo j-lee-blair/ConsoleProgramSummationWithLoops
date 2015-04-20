@@ -1,0 +1,21 @@
+c:\users\j_dog\documents\visual studio 2012\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\old projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\old projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\old projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\old projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\old projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\old projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\OOP1 Assignment 2\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\OOP1 Assignment 2\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\OOP1 Assignment 2\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\OOP1 Assignment 2\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\OOP1 Assignment 2\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\J\Documents\Visual Studio 2013\Projects\Old Assignments For Editing\OOP1 Assignment 2\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\J\Desktop\OOP1 Assignment 2\SummationWithLoops\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\J\Desktop\OOP1 Assignment 2\SummationWithLoops\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\J\Desktop\OOP1 Assignment 2\SummationWithLoops\Assignment 2\obj\Debug\Assignment 2.pdb

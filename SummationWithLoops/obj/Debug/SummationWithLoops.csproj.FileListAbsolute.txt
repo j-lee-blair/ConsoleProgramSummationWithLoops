@@ -1,0 +1,3 @@
+C:\Users\J\Desktop\OOP1 Assignment 2\SummationWithLoops\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\J\Desktop\OOP1 Assignment 2\SummationWithLoops\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\J\Desktop\OOP1 Assignment 2\SummationWithLoops\Assignment 2\obj\Debug\Assignment 2.pdb
